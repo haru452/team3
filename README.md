@@ -60,3 +60,5 @@ https://gemini.google.com/share/16d553ffa8f4
 1.  このリポジトリを各自のPCに `Clone（クローン）` する。
 2.  各自、Unity Hubからクローンしたフォルダを追加してプロジェクトを開く。
 3.  編集後は、意味のある単位で `Commit` ＆ `Push` を行い、作業前に必ず `Pull` をして最新状態に更新する。
+4.  <img width="1258" height="693" alt="image" src="https://github.com/user-attachments/assets/5bd78f4e-aa57-42cd-8406-9fd16ac21864" />
+
