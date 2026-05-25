@@ -2,6 +2,7 @@
 ## とりあえず、package_to_shareフォルダーの中のexperience.unitypackageをダウンロードして、共有するか検討中
 # それぞれの説明
 この下はAIにどうしたらいいか聞いて返ってきた返答のコピペ
+
 https://gemini.google.com/share/16d553ffa8f4
 
 
