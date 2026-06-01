@@ -1,1 +1,0 @@
-これは、experience.unitypackageをダウンロードして、動画と同じようにimportしたり、exportしたりして使う
